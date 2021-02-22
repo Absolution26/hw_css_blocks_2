@@ -31,6 +31,7 @@ svg{
 .list li{
     display:inline-block;
     border: 2px solid white;
+    font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
 .temp {
     opacity:0.6;
